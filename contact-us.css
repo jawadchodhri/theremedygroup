@@ -1,0 +1,37 @@
+body {
+    background-color: #80BCBD;
+}
+.col-md-5 {
+    background-color: #AAD9BB;
+    padding: 20px;
+    color: white;
+    border-radius: 3%;
+}
+
+.link-clear{
+    text-decoration: none;
+    color: white;
+}
+
+.bi {
+    font-size: 20px;
+}
+
+.d-flex > p {
+    padding-left: 10px;
+}
+
+span {
+    color: #80BCBD;
+    font-weight: bold;
+}
+
+.contact-main {
+    margin-bottom: 200px;
+}
+
+@media (min-height: 700px) {
+    .contact-main {
+        margin-bottom: 500px;
+    }
+  }

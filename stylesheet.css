@@ -1,0 +1,59 @@
+.main-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.main-face {
+    background-color: #80BCBD;
+}
+
+.company-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lead {
+    font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
+}
+
+.main-button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.talk-button {
+    background-color: #AAD9BB;
+    border-color: #AAD9BB;
+    color: white;
+}
+
+.talk-button:hover {
+    background-color: #D5F0C1;
+    color: white;
+}
+
+.about-button {
+    border-color: #AAD9BB;
+    color: white;
+}
+.about-button:hover {
+    background-color: #AAD9BB;
+    color: white;
+}
+
+.about-us > div{
+    font-family: sans-serif;
+}
+
+.web-page {
+    text-decoration: none;
+}
+
+.r-footer {
+    background-color: #80BCBD;
+    padding-bottom: 20px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+}
