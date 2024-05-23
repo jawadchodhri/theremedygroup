@@ -1,2 +1,2 @@
-# theremedygroup
-PageofmyMedical Billing Company
+# the remedy group
+Page of my Medical Billing Company
